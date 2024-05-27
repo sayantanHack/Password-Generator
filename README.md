@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Password Generator
+
+![image](https://github.com/sayantanHack/Password-Generator/assets/26269305/b8645546-466b-49f0-93d2-7913044853fd)
+
+### This is a simple Password generator app based on different Length.
 
 ## Available Scripts
 
