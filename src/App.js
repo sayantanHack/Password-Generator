@@ -9,8 +9,9 @@ function App() {
 	const [char, setChar] = useState(false)
 	const [pswd, setPswd] = useState(1909)
 
-	// creating useCallback update the function using memoisation . it uses function and aray of dependency
+	// creating useCallback update the function using Memoization . it uses function and aray of dependency, if any dependency changes the func rerun itself for optimization.
 	//format useCallback(function , [d1, d2, d3])
+	// ueEffect is used for rerunning in the change of any dependency.
 
 	const passGen = useCallback(() => {
 		var charset = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
