@@ -4,6 +4,8 @@
 
 ### This is a simple Password generator app based on different Length.
 
+Autogen js file also can be added to the project. It automatic generate the Passwords users can copy it to the clipboard.
+
 ## Available Scripts
 
 In the project directory, you can run:
